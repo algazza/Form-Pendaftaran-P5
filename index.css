@@ -151,7 +151,7 @@ body {
   width: 200px;
 }
 
-@media screen and (max-h: 576px) {
+@media screen and (max-width: 576px) {
   body {
     background: url(./batikfixxx.png) no-repeat;
   }
